@@ -1,0 +1,5 @@
+time="2022-08-11T00:39:28+03:00" level=fatal msg="нет подключения к базе данных" func="PreventiveWork/internal/models.(*DataSource).New()" file="DataSource.go:23"
+time="2022-08-11T00:41:28+03:00" level=fatal msg="нет подключения к базе данных" func="PreventiveWork/internal/models.(*DataSource).New()" file="DataSource.go:23"
+time="2022-08-11T00:45:32+03:00" level=fatal msg="нет подключения к базе данных" func="PreventiveWork/internal/models.(*DataSource).New()" file="DataSource.go:23"
+time="2022-08-11T00:48:18+03:00" level=fatal msg="нет подключения к базе данных" func="PreventiveWork/internal/models.(*DataSource).New()" file="DataSource.go:23"
+time="2022-08-11T01:16:56+03:00" level=fatal msg="нет подключения к базе данных" func="PreventiveWork/internal/models.(*DataSource).New()" file="DataSource.go:23"
